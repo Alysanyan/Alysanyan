@@ -13,9 +13,9 @@
 
 ### [Explorer](https://testnet.0g.explorers.guru/validator/0gvaloper167ajsws6gs29cuk3e5gestep4x7jwfd9q2zs5p)
 
-[0G-Storage-Node Install Guide](https://www.notion.so/alysanyan/0G-Storage-Node-Install-Guide-81614fb569904741a1a229d88b480b94?pvs=25)
+[0G-Storage-Node Install Guide](https://alysanyan.notion.site/0G-Storage-Node-Install-Guide-89d72c5025c542f9a0eb97ec805851ca)
 
-[0G-DA-Node Install Guide](https://www.notion.so/alysanyan/0G-DA-Node-Install-Guide-f48c2cdc56e34aee85db6edf6e054680)
+[0G-DA-Node Install Guide](https://alysanyan.notion.site/0G-DA-Node-Install-Guide-e36bee28722247b7897064471fa1758d)
 
 
 </details>
@@ -35,7 +35,7 @@
 
 ### [Explorer](https://explorer.nodestake.org/artela-testnet/staking/artvaloper174x3lfzrv79ajfuqypqpvw7w74j93ycjs2xsc2)
 
-[Guide to Setting Up a Node in Artela Network](https://www.notion.so/alysanyan/Artela-Network-327bf51788474bc4919b16fa10772a94)
+[Guide to Setting Up a Node in Artela Network](https://alysanyan.notion.site/CrossFi-e13b291e45404cc89c08e714ed530a0c)
 
 
 </details>
@@ -45,7 +45,7 @@
 
 ### [Explorer](https://explorer.nibiru.fi/nibiru-itn-1/staking/nibivaloper1fluql664ufxgvr3wgr7xu9rmn9s5hrqr6hywwy)
 
-[Guide to Running a Validator Node on the Nibiru Network](https://www.notion.so/alysanyan/Nibiru-08296127a3924bd8b5e058934aad7df9)
+[Guide to Running a Validator Node on the Nibiru Network](https://explorer.nibiru.fi/nibiru-itn-1/staking/nibivaloper1fluql664ufxgvr3wgr7xu9rmn9s5hrqr6hywwy)
 
 
 </details>
@@ -57,7 +57,7 @@
 
 ### [Explorer](https://testnet.chainsco.pe/pryzm/validator/pryzmvaloper12jfdn7x7wa2ydwl4epqn7pfrwx824xa4380lmp)
 
-[Pryzm Node Install Guide](https://www.notion.so/alysanyan/Pryzm-93d7336cafc24433870e22b9392cc402)
+[Pryzm Node Install Guide](https://alysanyan.notion.site/Pryzm-cf1e800a31874c4187640d933848d352)
 
 
 
@@ -69,7 +69,7 @@
 
 ### [Accepted pull request](https://github.com/babylonchain/networks/pull/261)
 
-[Running a node on the Babylon Chain](https://www.notion.so/alysanyan/Babylon-dcf02979896d4687aa34e7e53162fd73)
+[Running a node on the Babylon Chain](https://alysanyan.notion.site/Babylon-88c16cad1c034f5c9e43ede2a4aa7fc5)
 
 
 </details>
